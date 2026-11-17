@@ -7,6 +7,10 @@ Exploring new possibilities in hardware, software, and human interaction.
 
 ---
 
+[製品仕様 / Product Specifications](SPECIFICATIONS.md)
+
+---
+
 About YOSUGA / YOSUGAについて
 
 YOSUGA（よすが） is an independent technology project initiated by a 13-year-old student developer in Japan. The project explores original smartphones, dedicated digital cameras, and operating systems, with an emphasis on designing hardware, software, and human interaction together.
